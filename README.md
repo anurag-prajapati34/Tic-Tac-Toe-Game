@@ -1,4 +1,4 @@
-Tic Tac Toe Game
+<h1>Tic Tac Toe Game</h1>
 Welcome to the Tic Tac Toe game! This web application is a simple yet engaging implementation of the classic Tic Tac Toe game, developed using HTML, CSS, and JavaScript.
 
 Features
