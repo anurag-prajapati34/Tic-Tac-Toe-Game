@@ -14,11 +14,11 @@ How to Play</h2>
 <li>Winning the Game: The first player to align three of their marks (X or O) horizontally, vertically, or diagonally wins the game.</li>
 <li>Draw: If all cells are filled and no player has three aligned marks, the game ends in a draw.</li>
 <li>Resetting the Game: Click the reset button to start a new game.</li></ul>
-Technologies Used
-HTML: For structuring the web page and creating the game board.
-CSS: For styling the game board and user interface to make it visually appealing.
-JavaScript: For implementing the game logic, handling user interactions, and updating the UI dynamically.
-Project Structure
-index.html: Contains the HTML structure of the game.
-style.css: Contains the CSS styles for the game.
-script.js: Contains the JavaScript code that drives the game logic.
+<h2>Technologies Used</h2>
+<ul><li>HTML: For structuring the web page and creating the game board.</li>
+<li>CSS: For styling the game board and user interface to make it visually appealing.</li>
+<li>JavaScript: For implementing the game logic, handling user interactions, and updating the UI dynamically.</li></ul>
+<h2>Project Structure</h2>
+<ul><li>index.html: Contains the HTML structure of the game.</li>
+<li>style.css: Contains the CSS styles for the game.</li>
+<li>script.js: Contains the JavaScript code that drives the game logic.</li></ul>
